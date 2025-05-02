@@ -1,0 +1,1 @@
+INSERT INTO `saas_sow_community_topic` (`topic_id`, `site_id`, `category_id`, `topic_name`, `status`, `is_recommend`, `content_num`, `member_num`, `view_num`, `sort`, `create_time`, `update_time`) VALUES (1, 100027, 0, '手机', 1, 1, 1, 0, 17, 0, 1740806044, 1744374960);

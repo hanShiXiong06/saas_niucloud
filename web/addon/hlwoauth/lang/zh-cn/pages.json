@@ -1,0 +1,9 @@
+{
+    "pages": {
+        "hlwoauth": {
+            "hello_world": {
+                "index": "hello_world"
+            }
+        }
+    }
+}

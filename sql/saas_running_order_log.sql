@@ -1,0 +1,8 @@
+INSERT INTO `saas_running_order_log` (`id`, `site_id`, `order_id`, `status`, `remark`, `operator`, `operator_id`, `create_time`) VALUES (1, 100027, 1, 1, '订单创建', 'member', 17673, '2025-04-06 01:10:35');
+INSERT INTO `saas_running_order_log` (`id`, `site_id`, `order_id`, `status`, `remark`, `operator`, `operator_id`, `create_time`) VALUES (2, 100027, 1, 2, '订单支付成功,等待接单', 'system', 0, '2025-04-06 01:21:04');
+INSERT INTO `saas_running_order_log` (`id`, `site_id`, `order_id`, `status`, `remark`, `operator`, `operator_id`, `create_time`) VALUES (3, 100025, 2, 1, '订单创建', 'member', 12888, '2025-04-07 11:53:29');
+INSERT INTO `saas_running_order_log` (`id`, `site_id`, `order_id`, `status`, `remark`, `operator`, `operator_id`, `create_time`) VALUES (4, 100025, 3, 1, '订单创建', 'member', 12888, '2025-04-07 11:56:54');
+INSERT INTO `saas_running_order_log` (`id`, `site_id`, `order_id`, `status`, `remark`, `operator`, `operator_id`, `create_time`) VALUES (5, 100025, 4, 1, '订单创建', 'member', 12888, '2025-04-07 12:01:08');
+INSERT INTO `saas_running_order_log` (`id`, `site_id`, `order_id`, `status`, `remark`, `operator`, `operator_id`, `create_time`) VALUES (6, 100025, 3, -1, '客户主动取消订单', 'member', 12888, '2025-04-07 12:03:03');
+INSERT INTO `saas_running_order_log` (`id`, `site_id`, `order_id`, `status`, `remark`, `operator`, `operator_id`, `create_time`) VALUES (7, 100025, 4, -1, '客户主动取消订单', 'member', 12888, '2025-04-07 12:03:05');
+INSERT INTO `saas_running_order_log` (`id`, `site_id`, `order_id`, `status`, `remark`, `operator`, `operator_id`, `create_time`) VALUES (8, 100025, 2, -1, '客户主动取消订单', 'member', 12888, '2025-04-07 12:03:08');

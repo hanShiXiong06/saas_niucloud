@@ -1,0 +1,1 @@
+INSERT INTO `saas_shop_delivery_deliver` (`deliver_id`, `site_id`, `deliver_name`, `deliver_mobile`, `create_time`, `modify_time`, `store_id`) VALUES (1, 100011, '白先生', '15630477176', 1741266746, 0, 0);

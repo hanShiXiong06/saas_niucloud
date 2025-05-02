@@ -1,0 +1,1 @@
+INSERT INTO `saas_shop_delivery_shipping_template` (`template_id`, `site_id`, `template_name`, `fee_type`, `create_time`, `update_time`, `is_free_shipping`, `no_delivery`) VALUES (2, 100005, '通用模板', 'num', 1718085536, 1718085551, 0, 1);

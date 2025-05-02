@@ -1,0 +1,3 @@
+INSERT INTO `saas_blog_tie_cate` (`id`, `site_id`, `pid`, `name`, `image`, `status`, `adddate`) VALUES (160067, 100027, 0, '闲置买卖', 'https://vip.123pan.cn/1832133965/tiantai/1740805893c9a3418f23202e3c09dff5c4a53ac483_ott.jpg', '1', '2025-03-01 13:33:22');
+INSERT INTO `saas_blog_tie_cate` (`id`, `site_id`, `pid`, `name`, `image`, `status`, `adddate`) VALUES (160068, 100027, 0, '租房', 'https://vip.123pan.cn/1832133965/tiantai/1740805893c9a3418f23202e3c09dff5c4a53ac483_ott.jpg', '1', '2025-03-01 13:33:41');
+INSERT INTO `saas_blog_tie_cate` (`id`, `site_id`, `pid`, `name`, `image`, `status`, `adddate`) VALUES (160069, 100027, 0, '宠物', 'https://vip.123pan.cn/1832133965/tiantai/1740805893c9a3418f23202e3c09dff5c4a53ac483_ott.jpg', '1', '2025-03-01 13:34:08');

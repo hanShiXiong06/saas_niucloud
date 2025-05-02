@@ -1,0 +1,2 @@
+INSERT INTO `saas_running_school` (`id`, `site_id`, `name`, `address`, `status`, `create_time`, `update_time`) VALUES (2, 100025, '石家庄科信', '石家庄灵寿县白马岗村石家庄科技信息职业学院', 1, '2025-04-07 11:49:00', '2025-04-07 11:49:00');
+INSERT INTO `saas_running_school` (`id`, `site_id`, `name`, `address`, `status`, `create_time`, `update_time`) VALUES (3, 100027, '华北理工大学', '曹妃甸区渤海大道21号\n', 1, '2025-04-07 15:49:08', '2025-04-07 15:49:08');

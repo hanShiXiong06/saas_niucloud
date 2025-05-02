@@ -1,0 +1,1 @@
+INSERT INTO `saas_aihumans_model` (`id`, `site_id`, `logo`, `name`, `desc`, `demo`, `content`, `sort`, `create_time`, `update_time`) VALUES (3, 100003, 'https://vip.123pan.cn/1832133965/tiantai/1740931301f70ee8fff1de834751292cfa9f0c94e7_ott.png', '腾讯混元模型', '测试', '你好啊', '测试啊', '', 1741933998, 1741933998);

@@ -1,0 +1,9 @@
+INSERT INTO `saas_shop_goods_label_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`, `update_time`) VALUES (1, 100011, '默认', 0, 1730624065, 1730624065);
+INSERT INTO `saas_shop_goods_label_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`, `update_time`) VALUES (2, 100016, '默认', 0, 1730624065, 1730624065);
+INSERT INTO `saas_shop_goods_label_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`, `update_time`) VALUES (4, 100013, '默认', 0, 1731501689, 1731501689);
+INSERT INTO `saas_shop_goods_label_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`, `update_time`) VALUES (5, 100019, '默认', 0, 1731501689, 1731501689);
+INSERT INTO `saas_shop_goods_label_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`, `update_time`) VALUES (8, 100023, '默认', 0, 1732154030, 1732154030);
+INSERT INTO `saas_shop_goods_label_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`, `update_time`) VALUES (9, 100022, '默认', 0, 1732154037, 1732154037);
+INSERT INTO `saas_shop_goods_label_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`, `update_time`) VALUES (10, 100010, '默认', 0, 1732154053, 1732154053);
+INSERT INTO `saas_shop_goods_label_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`, `update_time`) VALUES (11, 100024, '默认', 0, 1733190039, 1733190039);
+INSERT INTO `saas_shop_goods_label_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`, `update_time`) VALUES (12, 100027, '默认', 0, 1740305142, 1740305142);

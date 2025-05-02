@@ -1,0 +1,1 @@
+INSERT INTO `saas_blog_tie_look` (`id`, `tid`, `member_id`, `headimg`, `nickname`, `adddate`, `addtime`, `site_id`) VALUES (2923224, 1361712, 17871, '', '23245CRDQUC8', '2025-04-06 17:44:11', 1743932651, 100027);

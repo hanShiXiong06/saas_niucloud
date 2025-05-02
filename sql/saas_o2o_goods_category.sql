@@ -1,0 +1,14 @@
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (54, 100000, '普通锁', 53, 2, 0, '', 1706631062, 1706631062);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (55, 100000, '文件柜锁', 53, 2, 0, '', 1706631074, 1706631074);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (57, 100000, '手机维修', 0, 1, 98, '', 1711285190, 1718030782);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (61, 100000, '家政服务', 0, 1, 0, '', 1718030624, 1718030624);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (62, 100000, '家政维修', 0, 1, 0, '', 1718030642, 1718030642);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (63, 100000, '化妆跟妆', 0, 1, 0, '', 1718030668, 1718030668);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (64, 100000, '上门美甲', 0, 1, 0, '', 1718030701, 1718030701);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (65, 100000, '上门贴膜', 0, 1, 0, '', 1718030711, 1718030711);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (66, 100000, '手机回收', 0, 1, 99, '', 1718030762, 1718030776);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (67, 100000, '喂宠物', 0, 1, 0, '', 1718030875, 1718030875);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (68, 100000, '上门开锁', 0, 1, 0, '', 1718031015, 1718031015);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (69, 100000, '上门回收', 0, 1, 100, '', 1719039879, 1719040243);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (70, 100027, '取快递', 0, 1, 0, '', 1742284302, 1742284302);
+INSERT INTO `saas_o2o_goods_category` (`category_id`, `site_id`, `category_name`, `pid`, `level`, `sort`, `image`, `create_time`, `update_time`) VALUES (71, 100027, '代跑腿', 0, 1, 0, '', 1742284351, 1742284351);

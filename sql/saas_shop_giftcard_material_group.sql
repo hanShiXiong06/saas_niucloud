@@ -1,0 +1,9 @@
+INSERT INTO `saas_shop_giftcard_material_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`) VALUES (1, 100000, '中秋节', 0, 1730627298);
+INSERT INTO `saas_shop_giftcard_material_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`) VALUES (2, 100000, '国庆节', 1, 1730627298);
+INSERT INTO `saas_shop_giftcard_material_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`) VALUES (3, 100000, '生日祝福', 2, 1730627298);
+INSERT INTO `saas_shop_giftcard_material_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`) VALUES (4, 100005, '中秋节', 0, 1731942838);
+INSERT INTO `saas_shop_giftcard_material_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`) VALUES (5, 100005, '国庆节', 1, 1731942838);
+INSERT INTO `saas_shop_giftcard_material_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`) VALUES (6, 100005, '生日祝福', 2, 1731942838);
+INSERT INTO `saas_shop_giftcard_material_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`) VALUES (13, 100027, '中秋节', 0, 1740305142);
+INSERT INTO `saas_shop_giftcard_material_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`) VALUES (14, 100027, '国庆节', 1, 1740305142);
+INSERT INTO `saas_shop_giftcard_material_group` (`group_id`, `site_id`, `group_name`, `sort`, `create_time`) VALUES (15, 100027, '生日祝福', 2, 1740305142);

@@ -1,0 +1,3 @@
+INSERT INTO `saas_phone_shop_recycler_price_config` (`id`, `site_id`, `recycler_id`, `price_type`, `member_markup`, `non_member_markup`, `create_time`, `update_time`) VALUES (2, 100026, 0, 2, 0.00, 0.00, '2025-01-12 00:44:25', '2025-01-12 00:44:30');
+INSERT INTO `saas_phone_shop_recycler_price_config` (`id`, `site_id`, `recycler_id`, `price_type`, `member_markup`, `non_member_markup`, `create_time`, `update_time`) VALUES (3, 100005, 0, 2, 10.00, 0.00, '2025-01-12 01:00:56', '2025-01-12 01:01:29');
+INSERT INTO `saas_phone_shop_recycler_price_config` (`id`, `site_id`, `recycler_id`, `price_type`, `member_markup`, `non_member_markup`, `create_time`, `update_time`) VALUES (4, 100024, 0, 2, 100.00, 0.00, '2025-01-12 04:20:23', '2025-01-12 04:21:01');

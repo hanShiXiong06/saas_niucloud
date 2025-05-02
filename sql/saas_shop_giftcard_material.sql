@@ -1,0 +1,9 @@
+INSERT INTO `saas_shop_giftcard_material` (`material_id`, `site_id`, `group_id`, `url`, `create_time`, `update_time`) VALUES (1, 100000, 1, 'addon/shop_giftcard/material/zhongqiu.jpg', 0, 0);
+INSERT INTO `saas_shop_giftcard_material` (`material_id`, `site_id`, `group_id`, `url`, `create_time`, `update_time`) VALUES (2, 100000, 2, 'addon/shop_giftcard/material/guoqin.jpg', 0, 0);
+INSERT INTO `saas_shop_giftcard_material` (`material_id`, `site_id`, `group_id`, `url`, `create_time`, `update_time`) VALUES (3, 100000, 3, 'addon/shop_giftcard/material/birthday.jpg', 0, 0);
+INSERT INTO `saas_shop_giftcard_material` (`material_id`, `site_id`, `group_id`, `url`, `create_time`, `update_time`) VALUES (4, 100005, 4, 'addon/shop_giftcard/material/zhongqiu.jpg', 0, 0);
+INSERT INTO `saas_shop_giftcard_material` (`material_id`, `site_id`, `group_id`, `url`, `create_time`, `update_time`) VALUES (5, 100005, 5, 'addon/shop_giftcard/material/guoqin.jpg', 0, 0);
+INSERT INTO `saas_shop_giftcard_material` (`material_id`, `site_id`, `group_id`, `url`, `create_time`, `update_time`) VALUES (6, 100005, 6, 'addon/shop_giftcard/material/birthday.jpg', 0, 0);
+INSERT INTO `saas_shop_giftcard_material` (`material_id`, `site_id`, `group_id`, `url`, `create_time`, `update_time`) VALUES (13, 100027, 13, 'addon/shop_giftcard/material/zhongqiu.jpg', 0, 0);
+INSERT INTO `saas_shop_giftcard_material` (`material_id`, `site_id`, `group_id`, `url`, `create_time`, `update_time`) VALUES (14, 100027, 14, 'addon/shop_giftcard/material/guoqin.jpg', 0, 0);
+INSERT INTO `saas_shop_giftcard_material` (`material_id`, `site_id`, `group_id`, `url`, `create_time`, `update_time`) VALUES (15, 100027, 15, 'addon/shop_giftcard/material/birthday.jpg', 0, 0);

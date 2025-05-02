@@ -1,0 +1,3 @@
+INSERT INTO `saas_shop_goods_brand` (`brand_id`, `site_id`, `brand_name`, `logo`, `desc`, `color_json`, `sort`, `create_time`, `update_time`, `delete_time`) VALUES (7, 100005, 'S级', '', '', '', 101, 1713420492, 1714799463, 0);
+INSERT INTO `saas_shop_goods_brand` (`brand_id`, `site_id`, `brand_name`, `logo`, `desc`, `color_json`, `sort`, `create_time`, `update_time`, `delete_time`) VALUES (11, 100005, 'B级', '', '', '', 111, 1713421030, 1714800103, 0);
+INSERT INTO `saas_shop_goods_brand` (`brand_id`, `site_id`, `brand_name`, `logo`, `desc`, `color_json`, `sort`, `create_time`, `update_time`, `delete_time`) VALUES (27, 100005, 'A级', '', '靓机', '', 105, 1714799338, 1714800097, 0);

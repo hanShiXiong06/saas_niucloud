@@ -1,0 +1,12 @@
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (27, 0, 'JD', '京东', 'addon/tk_jhkd/logo/jd.png', 1, 1690035304, 1690035304, '8');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (28, 0, 'YTO', '圆通', 'addon/tk_jhkd/logo/yt.png', 1, 0, 0, '');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (29, 0, 'STO-INT', '申通', 'addon/tk_jhkd/logo/st.png', 1, 0, 0, '');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (30, 0, 'DOP', '德邦', 'addon/tk_jhkd/logo/db.png', 1, 0, 0, '');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (31, 0, 'SF', '顺丰', 'addon/tk_jhkd/logo/sf.png', 1, 0, 0, '');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (32, 0, 'JT', '极兔', 'addon/tk_jhkd/logo/jt.png', 1, 0, 0, '');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (33, 0, 'ZTO', '中通', 'addon/tk_jhkd/logo/zt.png', 1, 0, 0, '');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (34, 0, 'YUND', '韵达', 'addon/tk_jhkd/logo/yd.png', 1, 0, 0, '');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (35, 0, 'CNSD', '菜鸟速递', 'addon/tk_jhkd/logo/cn.png', 1, 0, 0, '');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (36, 0, 'CAINIAO', '菜鸟裹裹', 'addon/tk_jhkd/logo/cnsd.png', 1, 0, 0, '');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (37, 0, 'KY', '跨越速运', 'addon/tk_jhkd/logo/ky.png', 1, 0, 0, '0');
+INSERT INTO `saas_tkjhkd_brand` (`id`, `site_id`, `delivery_type`, `name`, `logo`, `status`, `create_time`, `update_time`, `addon`) VALUES (38, 0, 'BEST', '百事速运', 'addon/tk_jhkd/logo/bs.png', 1, 0, 0, '');

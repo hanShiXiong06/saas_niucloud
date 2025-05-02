@@ -1,0 +1,3 @@
+INSERT INTO `saas_running_express_site` (`id`, `site_id`, `school_id`, `name`, `address`, `status`, `create_time`, `update_time`) VALUES (3, 100025, 2, '圆通妈妈', '1111', 1, '2025-04-07 11:49:13', '2025-04-07 11:49:13');
+INSERT INTO `saas_running_express_site` (`id`, `site_id`, `school_id`, `name`, `address`, `status`, `create_time`, `update_time`) VALUES (4, 100027, 3, '东区快递', '东区大学生服务中心', 1, '2025-04-07 15:53:20', '2025-04-07 15:53:20');
+INSERT INTO `saas_running_express_site` (`id`, `site_id`, `school_id`, `name`, `address`, `status`, `create_time`, `update_time`) VALUES (5, 100027, 3, '西区快递', '西区大学生服务中心', 1, '2025-04-07 15:54:51', '2025-04-07 15:54:51');

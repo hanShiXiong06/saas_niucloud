@@ -1,0 +1,9 @@
+{
+    "pages": {
+        "seafox_pay": {
+            "hello_world": {
+                "index": "hello_world"
+            }
+        }
+    }
+}

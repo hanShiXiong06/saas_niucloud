@@ -1,0 +1,10 @@
+INSERT INTO `saas_phone_shop_memory_group` (`group_id`, `site_id`, `group_name`, `memory_ids`, `sort`, `create_time`, `update_time`) VALUES (1, 0, '安卓通用', '18,19,20,21,22,23,24,25,26,27,28,29,30,37,34', 0, 1736180581, 1738763840);
+INSERT INTO `saas_phone_shop_memory_group` (`group_id`, `site_id`, `group_name`, `memory_ids`, `sort`, `create_time`, `update_time`) VALUES (4, 0, '11P|11PM|XsMax|Xs', '8,5,15,12,13', 0, 1736244671, 1738763817);
+INSERT INTO `saas_phone_shop_memory_group` (`group_id`, `site_id`, `group_name`, `memory_ids`, `sort`, `create_time`, `update_time`) VALUES (5, 0, '13PM|14PM|13P|14P|15P|16P', '4,5,6,7,12,13,14', 0, 1736244685, 1738763489);
+INSERT INTO `saas_phone_shop_memory_group` (`group_id`, `site_id`, `group_name`, `memory_ids`, `sort`, `create_time`, `update_time`) VALUES (6, 0, '15PM|16PM', '5,6,7,12,13,14', 0, 1736244697, 1738763501);
+INSERT INTO `saas_phone_shop_memory_group` (`group_id`, `site_id`, `group_name`, `memory_ids`, `sort`, `create_time`, `update_time`) VALUES (7, 0, '12|12Mini|11|Xr|8|8P|SE1|SE2|SE3', '4,12,15', 0, 1736408460, 1738763761);
+INSERT INTO `saas_phone_shop_memory_group` (`group_id`, `site_id`, `group_name`, `memory_ids`, `sort`, `create_time`, `update_time`) VALUES (8, 0, '12PM|12P|13|13Mini|14|14Plus|15|15Plus|16|16Plus', '4,12,13', 0, 1738763312, 1738763561);
+INSERT INTO `saas_phone_shop_memory_group` (`group_id`, `site_id`, `group_name`, `memory_ids`, `sort`, `create_time`, `update_time`) VALUES (9, 0, 'X', '10,8,15,12', 0, 1738766762, 1738767191);
+INSERT INTO `saas_phone_shop_memory_group` (`group_id`, `site_id`, `group_name`, `memory_ids`, `sort`, `create_time`, `update_time`) VALUES (10, 0, '苹果通用', '17,16,15,4,12,13,14', 0, 1738767361, 1738767361);
+INSERT INTO `saas_phone_shop_memory_group` (`group_id`, `site_id`, `group_name`, `memory_ids`, `sort`, `create_time`, `update_time`) VALUES (11, 0, '手表', '43,42,41,40,39,38', 0, 1738767758, 1738767866);
+INSERT INTO `saas_phone_shop_memory_group` (`group_id`, `site_id`, `group_name`, `memory_ids`, `sort`, `create_time`, `update_time`) VALUES (12, 0, '笔记本内存', '20,34,21,22,27,28,29', 0, 1739109512, 1739109512);

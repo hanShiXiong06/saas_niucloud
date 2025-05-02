@@ -1,0 +1,4 @@
+INSERT INTO `saas_phone_shop_goods_brand` (`brand_id`, `site_id`, `brand_name`, `logo`, `desc`, `sort`, `create_time`, `update_time`, `delete_time`) VALUES (1, 0, '小花', '', '小花', 0, 1736604697, 1736604697, 0);
+INSERT INTO `saas_phone_shop_goods_brand` (`brand_id`, `site_id`, `brand_name`, `logo`, `desc`, `sort`, `create_time`, `update_time`, `delete_time`) VALUES (2, 0, '靓机', '', '靓机', 0, 1736621975, 1736621975, 0);
+INSERT INTO `saas_phone_shop_goods_brand` (`brand_id`, `site_id`, `brand_name`, `logo`, `desc`, `sort`, `create_time`, `update_time`, `delete_time`) VALUES (3, 0, '全套', '', '全套', 0, 1736621975, 1736621975, 0);
+INSERT INTO `saas_phone_shop_goods_brand` (`brand_id`, `site_id`, `brand_name`, `logo`, `desc`, `sort`, `create_time`, `update_time`, `delete_time`) VALUES (8, 100005, '未激活', '', '未激活', 0, 1737665922, 1737665922, 0);

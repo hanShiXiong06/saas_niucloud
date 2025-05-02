@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+*.log
+/runtime
+install.lock
+/addon
+/env
+/example.env
+/public/addon

@@ -1,0 +1,1 @@
+INSERT INTO `saas_shop_goods_rank` (`rank_id`, `site_id`, `name`, `rank_type`, `goods_source`, `rule_type`, `goods_json`, `category_ids`, `brand_ids`, `label_ids`, `sort`, `status`, `create_time`, `update_time`) VALUES (2, 100011, '热卖榜', 'week', 'category', 'access', '[]', '[1400,1441,1437]', '[]', '[]', 0, 1, 1742864460, 1742864460);

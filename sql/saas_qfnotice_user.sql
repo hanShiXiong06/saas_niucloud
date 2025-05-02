@@ -1,0 +1,1 @@
+INSERT INTO `saas_qfnotice_user` (`id`, `site_id`, `cat_id`, `nickname`, `headimg`, `config_id`, `mobile`, `openid`, `unionid`, `email`, `num`, `create_time`) VALUES (40957, 100005, 3, '韩先生', NULL, 00000000000, '15832117979', NULL, NULL, '569228509@qq.com', 0, 1735923738);

@@ -1,0 +1,5 @@
+INSERT INTO `saas_seafoxpay_merchant` (`id`, `site_id`, `name`, `logo`, `mch_id`, `addtime`) VALUES (2, 100005, '天泰通讯', 'http://cdn.hsxbk.top/upload/attachment/image/100005/202404/08/1712591586149732494c53afea4af372708d885dfb_qiniu.png', 'tttx', 1723562233);
+INSERT INTO `saas_seafoxpay_merchant` (`id`, `site_id`, `name`, `logo`, `mch_id`, `addtime`) VALUES (3, 100010, '毅轩佰科技', 'https://vip.123pan.cn/1832133965/tiantai/1723477035d41c388d1c762ecd7a6e0cab8a804a17_ott.png', 'S10000000005423', 1723563071);
+INSERT INTO `saas_seafoxpay_merchant` (`id`, `site_id`, `name`, `logo`, `mch_id`, `addtime`) VALUES (4, 100010, '毅轩佰科技', 'https://vip.123pan.cn/1832133965/tiantai/1723477035d41c388d1c762ecd7a6e0cab8a804a17_ott.png', 'S10000000006293', 1725802829);
+INSERT INTO `saas_seafoxpay_merchant` (`id`, `site_id`, `name`, `logo`, `mch_id`, `addtime`) VALUES (5, 100000, '毅轩佰', 'upload/attachment/image/100000/202401/31/1706680615c8fd82acbfae8a5212f0e4a8cc24ed25_local.png', 'S10000000008437', 1730632703);
+INSERT INTO `saas_seafoxpay_merchant` (`id`, `site_id`, `name`, `logo`, `mch_id`, `addtime`) VALUES (6, 100003, '毅轩佰', '', 'S10000000008437', 1730715390);

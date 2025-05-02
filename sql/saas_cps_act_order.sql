@@ -1,0 +1,1 @@
+INSERT INTO `saas_cps_act_order` (`id`, `sid`, `site_id`, `member_id`, `name`, `chanel`, `order_id`, `pay_money`, `rate`, `commission`, `status`, `status_name`, `jl_js`, `pt_js`, `create_time`, `pay_time`) VALUES (62, 'd48f674800', 100003, '4800', '年轻20岁·乡下菜馆', '蚂蚁星球', '301209361374867920', 20.00, '0', 0.51, '6', '有效-结算', '1', '1', '2024-08-17 20:02:45', '2024-08-17 20:02:45');
