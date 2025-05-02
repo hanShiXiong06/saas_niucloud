@@ -1,0 +1,11 @@
+{
+      "siteId":"站点ID",
+      "siteIdPlaceholder":"请输入站点ID",
+      "name":"名称",
+      "namePlaceholder":"请输入名称",
+      "addCategory":"添加分类",
+      "updateCategory":"编辑分类",
+      "categoryDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

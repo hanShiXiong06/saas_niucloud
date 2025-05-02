@@ -1,0 +1,21 @@
+{
+      "categoryId":"试卷分类",
+      "categoryIdPlaceholder":"请选择试卷分类",
+      "title":"试卷名称",
+      "titlePlaceholder":"请输入试卷名称",
+      "mode":"选题模式",
+      "questionRules":"选题规则",
+      "questionNum":"题目数量",
+      "totalScore":"试卷总分",
+      "passScore":"及格分数",
+      "status":"状态",
+      "statusPlaceholder":"请输入状态",
+      "createTime":"创建时间",
+      "createTimePlaceholder":"请输入创建时间",
+      "addPaper":"添加试卷",
+      "updatePaper":"编辑试卷",
+      "paperDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+	  "paperConfirmTips":"确认之后试卷不可更改，可用于考试？",
+      "endDate":"请选择结束时间"
+}

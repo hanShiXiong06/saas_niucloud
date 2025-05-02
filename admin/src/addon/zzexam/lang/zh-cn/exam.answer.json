@@ -1,0 +1,19 @@
+{
+      "scoresId":"考试成绩id",
+      "scoresIdPlaceholder":"请输入考试成绩id",
+      "questionId":"题目id",
+      "questionIdPlaceholder":"请输入题目id",
+      "answer":"考生作答",
+      "answerPlaceholder":"请输入考生作答",
+      "score":"得分",
+      "scorePlaceholder":"请输入得分",
+      "result":"答题结果",
+      "resultPlaceholder":"请输入答题结果",
+      "sort":"排序",
+      "sortPlaceholder":"请输入排序",
+      "addAnswer":"添加考试答卷",
+      "updateAnswer":"编辑考试答卷",
+      "answerDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

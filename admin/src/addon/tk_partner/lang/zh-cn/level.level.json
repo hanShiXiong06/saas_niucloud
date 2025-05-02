@@ -1,0 +1,23 @@
+{
+      "siteId":"站点id",
+      "siteIdPlaceholder":"请输入站点id",
+      "name":"等级名称",
+      "namePlaceholder":"请输入等级名称",
+      "icon":"等级图标",
+      "iconPlaceholder":"请输入等级图标",
+      "rate":"利润分佣比",
+      "ratePlaceholder":"请输入利润分佣比",
+      "card":"生成卡密数",
+      "cardPlaceholder":"请输入生成卡密数",
+      "desc":"描述",
+      "descPlaceholder":"请输入描述",
+      "content":"详情",
+      "contentPlaceholder":"请输入详情",
+      "price":"价格",
+      "pricePlaceholder":"请输入价格",
+      "addLevel":"添加级别",
+      "updateLevel":"编辑级别",
+      "levelDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

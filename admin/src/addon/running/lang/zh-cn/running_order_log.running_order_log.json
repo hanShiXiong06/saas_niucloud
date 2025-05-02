@@ -1,0 +1,19 @@
+{
+      "id":"主键ID",
+      "idPlaceholder":"请输入主键ID",
+      "orderId":"订单ID",
+      "orderIdPlaceholder":"请输入订单ID",
+      "status":"订单状态",
+      "statusPlaceholder":"请输入订单状态",
+      "remark":"备注",
+      "remarkPlaceholder":"请输入备注",
+      "operatorId":"操作人ID",
+      "operatorIdPlaceholder":"全部",
+      "createTime":"创建时间",
+      "createTimePlaceholder":"请输入创建时间",
+      "addRunningOrderLog":"添加订单日志",
+      "updateRunningOrderLog":"编辑订单日志",
+      "runningOrderLogDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "zzexam"; /* Project id 4803093 */
+  src: url('iconfont.ttf?t=1739772585529') format('truetype');
+}
+
+.zzexam {
+  font-family: "zzexam" !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xiayiti:before {
+  content: "\e627";
+}
+
+.icon-shangyiti:before {
+  content: "\e629";
+}
+
+.icon-datiqia:before {
+  content: "\e662";
+}
+
+.icon-jiaojuan:before {
+  content: "\e655";
+}
+
+.icon-biji:before {
+  content: "\e61e";
+}
+
+.icon-gaikuang:before {
+  content: "\e62e";
+}
+
+.icon-tiku:before {
+  content: "\eaa3";
+}
+
+.icon-xuexi:before {
+  content: "\e634";
+}
+
+.icon-kaozheng:before {
+  content: "\e601";
+}
+
+.icon-order:before {
+  content: "\e611";
+}
+
+.icon-kaoshi:before {
+  content: "\e633";
+}
+

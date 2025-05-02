@@ -1,0 +1,17 @@
+{
+      "id":"ID",
+      "idPlaceholder":"请输入ID",
+      "cateId":"社群分类",
+      "cateIdPlaceholder":"全部",
+      "name":"社群名称",
+      "namePlaceholder":"请输入社群名称",
+      "image":"入群二维码",
+      "imagePlaceholder":"请输入入群二维码",
+      "adddate":"发布时间",
+      "adddatePlaceholder":"请输入发布时间",
+      "addShequn":"添加微信社群",
+      "updateShequn":"编辑微信社群",
+      "shequnDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

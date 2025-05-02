@@ -1,0 +1,15 @@
+{
+      "siteId":"站点",
+      "name":"标题",
+      "link":"网页链接",
+      "content":"内容",
+      "adddate":"发布时间",
+      "siteIdPlaceholder":"请输入站点",
+      "namePlaceholder":"请输入标题",
+      "linkPlaceholder":"请输入网页链接",
+      "contentPlaceholder":"请输入内容",
+      "adddatePlaceholder":"请选择发布时间",
+      "addNews":"添加公告资讯",
+      "updateNews":"编辑公告资讯",
+      "newsDeleteTips":"确定要删除该公告资讯吗？"
+}

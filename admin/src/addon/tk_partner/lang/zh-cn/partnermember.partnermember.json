@@ -1,0 +1,20 @@
+{
+      "siteId":"站点id",
+      "siteIdPlaceholder":"请输入站点id",
+      "memberId":"会员id",
+      "memberIdPlaceholder":"全部",
+      "pid":"店主ID",
+      "pidPlaceholder":"请输入店主ID",
+      "isPartner":"是否店主",
+      "isPartnerPlaceholder":"请输入是否店主",
+      "expireTime":"到期时间",
+      "expireTimePlaceholder":"请输入到期时间",
+      "createTime":"创建时间",
+      "createTimePlaceholder":"请输入创建时间",
+      "deleteTime":"删除时间",
+      "addPartnerMember":"添加会员列",
+      "updatePartnerMember":"编辑会员列",
+      "partnerMemberDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

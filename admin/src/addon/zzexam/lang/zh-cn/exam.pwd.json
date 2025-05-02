@@ -1,0 +1,13 @@
+{
+      "examId":"考试id",
+      "examIdPlaceholder":"请输入考试id",
+      "memberId":"会员id",
+      "memberIdPlaceholder":"请输入会员id",
+      "password":"密码",
+      "passwordPlaceholder":"请输入密码",
+      "addPwd":"添加考试密码",
+      "updatePwd":"编辑考试密码",
+      "pwdDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

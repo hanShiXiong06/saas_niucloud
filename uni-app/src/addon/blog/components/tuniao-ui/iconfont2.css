@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "shangpuFont"; /* Project id 4348976 */
+  src: 
+       url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAVwAAwAAAAACmQAAAUiAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIkgjGgZgADwKjSCKEgE2AiQDJAsiAAQgBYIUByAb4QcRlZz6ZI///DtX575o30tqpAl4CeaFUeuYCWOSzjrd9ZSsGSviXyra+b93rwGGgbzjgQaU4d2NPXAsHROok1Any8Ycf7B9MPuP5ZKrRpZt4K5eiz0AEIAwAAsmGODLpPB5GQQFgApAA6ADCAHgAAQAoxdREo4AACQQKb0G5PvdNi7/6/NH85Bl0NlQILML2ToAU7ed0Dp0UideYhTFPtOmTxuHx5D8qlzy8h4gefBXgQCAgT0HIImMAqwKiz8ZsCCjftxxGQSmHMzngTCY/8j+9E5fxF5+EkAZwMaRakNtjTwm/FmKcFgIv4FVOHo4ZEcNWZd4dJhh8qpJzXLU4rxikHpo/+JeW+x0ww22f9NA37f8860gcIK+RC4nf6tP5G5c3HfzzdfX+FdbPT7n97xcfmFJEFA2m8xShvfAmx9caA/5gbvshyuvvXU1lXDL5kUY4CVyIusERBye5fMeuzfRTswEAFyWjxbF5I5/sFA4CVE8SBCfKsp5qXCE7SQmo5hDUJGgQRk+oP2ALHIQvUZ8uWwi69vgcStm4nahJYDWHjsj5T22wSYx4wTjwcmkXBCODZxAM57L1ZBLOK0WezioSWQTfL71WcepnsM938r4InCygRD+Ab+nnHfEg+EFYZJPEOCUxMmi4Fo+2NnnedZ6JW3GQoHvwR/owfO5yAIe54OphoEAJ4GgG4K6E5ntiC4hbLiE1a2TfkAeCQgc8q0EuqfzD+1pbBZolnEHvVZ1QIDZ0Cjy0e3D6xPZa3+XLpP9772Qu4733ECZuuBaYL0VzpFveT4kLL/L6nZs4vg8zC0Y9FEz/rnz4uve2T9OUDwwU3PdfZ9M6v//7TtYbjT+wL2HzA9fw4E9jbPHfXveU+/+yJJM3P7DYKmdSUxpWGgIA75TPC7M2sa6Y3OfKfhkjVR+CJv/Nvq0Y9u1PuMhtTOlKqkxakJLSLGYtB0RlRPaSwQQEzMYAd365s365Zfrmzb5u85QXfUc9YrQFVoifPfUqX2FX2iu5nzuOSoZdWSD9l8mMWK6EutQ1JirSLE4gwQWpahbOTFSFE12U36fVJXMCFEwSB71i4JIAn6NhCMmpeEX2G7pgOVaqhkSigiZFteO/42ZoY0ZoypxRciVMUV2XUVxq+i/Vq1bqZSqjR2ja7jzOb5yJV1SUKanU3iCZo9k7TQ4JjFpsTKmU2nFhWE5FpdmFckj2zuSMQCixqwprDFqKosX77H2jtDLjfJQJRExwvfPt8u1AAiMGENCaDdoUiRcG4nE94oO3msmQ1osJR8v7i2WOpAaZ6438eeT5mJT3xrXB/RL1AwIxbfijdNrXMN1i92kkaypMCucYqfSxNDKx1efXW00hc4dmcbQ2AknhKqMRuPc6HwM+Cg9x3jCmD9ohjGjf6dc7Xak+2slFTECo05R0U/B/ODLqBER8keMUBrK6FlDZPOQZT1oFbWMuX71LL1W7aqemR5vF2lGKeh1wViKE2lMKpqNHTvTT0V0a5bD2xENe46vXh4Z+psuTYCRj7Lqp+HkLnwhvcwKAKhgCmR+7ioDXWiVXp5dGZDJdFYXxqKLFtEceoF1sktxiHSGdLokWCtbqeCK4ov1o6C6AmyjpkECySEQ7BUHpjIGKhs4CUNRzcmoxQpOQTFO3ldFLS5HNzZgJbZhPXZgD9LYLo7bjVlYi/XYgy1YiV3oQCvaMTYE0zCdZOPiEpQatRxL6CEqKZuXQ/0UG9tqk2wVYDBIeLXM34mVFAMA') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4199196_q3fkunwai29.woff?t=1700998906835') format('woff'),
+       url('//at.alicdn.com/t/c/font_4199196_q3fkunwai29.ttf?t=1700998906835') format('truetype');
+}
+
+[class*='sp-icon-'] {
+  font-family: 'shangpuFont' !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  text-decoration: none;
+}
+
+.sp-icon-logo-yxs:before {
+  content: "\e91e";
+}
+

@@ -1,0 +1,21 @@
+{
+      "memberId":"会员id",
+      "memberIdPlaceholder":"全部",
+      "siteId":"站点id",
+      "siteIdPlaceholder":"请输入站点id",
+      "pid":"推荐会员id(分销)",
+      "pidPlaceholder":"请输入推荐会员id(分销)",
+      "fenxiaoMemberId":"会员上级分销商会员id",
+      "fenxiaoMemberIdPlaceholder":"请输入会员上级分销商会员id",
+      "isFenxiao":"是否是分销商",
+      "isFenxiaoPlaceholder":"请输入是否是分销商",
+      "status":"分销商状态",
+      "statusPlaceholder":"请输入分销商状态",
+      "bindTime":"绑定时间",
+      "bindTimePlaceholder":"请输入绑定时间",
+      "addFenxiaoMember":"添加分销会员列",
+      "updateFenxiaoMember":"编辑分销会员列",
+      "fenxiaoMemberDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

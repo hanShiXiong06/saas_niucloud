@@ -1,0 +1,15 @@
+{
+      "paperId":"试卷id",
+      "paperIdPlaceholder":"请输入试卷id",
+      "questionId":"题目",
+      "questionIdPlaceholder":"请输入题目标题搜索",
+      "score":"分数",
+      "scorePlaceholder":"请输入分数",
+      "sort":"排序",
+      "sortPlaceholder":"请输入排序",
+      "addPaperQuestion":"选择题目",
+      "updatePaperQuestion":"编辑试卷题目",
+      "paperQuestionDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

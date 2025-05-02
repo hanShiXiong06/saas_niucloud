@@ -1,0 +1,17 @@
+{
+      "siteId": "站点",
+      "siteIdPlaceholder": "请选择站点",
+      "value": "存储分配",
+      "valuePlaceholder": "请输入驱动",
+      "size": "总存储",
+      "sizePlaceholder": "请输入总存储",
+      "useSize": "已用",
+      "useSizePlaceholder": "请输入已用",
+      "limit": "限制上传大小",
+      "limitPlaceholder": "请输入限制上传大小",
+      "addManageOss": "添加存储管理",
+      "updateManageOss": "编辑存储管理",
+      "manageOssDeleteTips": "确定要删除该数据吗？",
+      "startDate": "请选择开始时间",
+      "endDate": "请选择结束时间"
+}

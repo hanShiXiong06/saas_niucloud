@@ -1,0 +1,26 @@
+{
+    "status":"是否开启",
+    "point":"积分",
+    "growth":"经验",
+    "signInPeriod":"签到周期",
+    "periodLengthTips": "签到周期需在7-100天内。",
+    "everyDayTips":"用户可在签到页每日签到一次，签到后可获得每日签到奖励",
+    "everyDaySignIn":"每日签到",
+    "signInPeriodNotEmpty":"签到周期不能为空",
+    "everyDayPointNotEmpty":"每日签到积分不能为空",
+    "everyDayGrowthNotEmpty":"每日签到成长值不能为空",
+    "bonusForDailySignIn":"每日签到赠送奖励",
+    "continuousSignIn":"连续签到",
+    "continuousSignInDay":"连续签到天数",
+    "awardPoint":"奖励积分",
+    "awardGrowth":"奖励经验",
+    "saveContinuosSignInAward":"添加连续签到奖励",
+    "continuosSignInDescribe":"连续签到天数达到连签奖励的当天，可额外获得连签奖励；连续签到天数签满一个周期或者签到中断，将清空连签天数重新计算签到天数",
+    "actions":"操作",
+    "delete":"删除",
+    "isSupplement": "是否开启补签功能",
+    "stimulateVideoAd": "激励广告位ID",
+    "inputAdUintIDPlaceholder": "请填写广告位ID",
+    "inputAdUintIDTops": "广告位ID通过微信小程序后台广告主获得"
+
+}

@@ -1,0 +1,21 @@
+{
+      "id":"主键ID",
+      "idPlaceholder":"请输入主键ID",
+      "title":"标题",
+      "titlePlaceholder":"请输入标题",
+      "content":"内容",
+      "contentPlaceholder":"请输入内容",
+      "status":"状态",
+      "statusPlaceholder":"请输入状态",
+      "sort":"排序",
+      "sortPlaceholder":"请输入排序",
+      "createTime":"创建时间",
+      "createTimePlaceholder":"请输入创建时间",
+      "updateTime":"更新时间",
+      "updateTimePlaceholder":"请输入更新时间",
+      "addRunningHelpCenter":"添加帮助中心",
+      "updateRunningHelpCenter":"编辑帮助中心",
+      "runningHelpCenterDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

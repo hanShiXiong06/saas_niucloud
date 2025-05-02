@@ -1,0 +1,23 @@
+{
+      "id":"主键ID",
+      "idPlaceholder":"请输入主键ID",
+      "orderId":"订单ID",
+      "orderIdPlaceholder":"请输入订单ID",
+      "productId":"产品ID",
+      "productIdPlaceholder":"请输入产品ID",
+      "num":"数量",
+      "numPlaceholder":"请输入数量",
+      "code":"取件码",
+      "codePlaceholder":"请输入取件码",
+      "price":"价格",
+      "pricePlaceholder":"请输入价格",
+      "createTime":"创建时间",
+      "createTimePlaceholder":"请输入创建时间",
+      "updateTime":"更新时间",
+      "updateTimePlaceholder":"请输入更新时间",
+      "addRunningOrderProduct":"添加订单商品",
+      "updateRunningOrderProduct":"编辑订单商品",
+      "runningOrderProductDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

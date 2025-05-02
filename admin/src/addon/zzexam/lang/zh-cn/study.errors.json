@@ -1,0 +1,15 @@
+{
+      "memberId":"用户",
+      "memberIdPlaceholder":"请输入用户",
+      "examId":"考试",
+      "examIdPlaceholder":"请输入考试ID",
+      "questionId":"题目",
+      "questionIdPlaceholder":"请输入题目ID",
+      "scoresId":"成绩ID",
+      "scoresIdPlaceholder":"请输入成绩ID",
+      "addErrors":"添加会员错题",
+      "updateErrors":"编辑会员错题",
+      "errorsDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

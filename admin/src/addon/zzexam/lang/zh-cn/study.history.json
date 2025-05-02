@@ -1,0 +1,15 @@
+{
+      "memberId":"会员信息",
+      "memberIdPlaceholder":"请输入会员ID",
+      "type":"类型",
+      "typePlaceholder":"请输入类型",
+      "targetId":"目标ID",
+      "targetIdPlaceholder":"请输入目标ID",
+      "createTime":"浏览时间",
+      "createTimePlaceholder":"请输入浏览时间",
+      "addHistory":"添加会员足迹",
+      "updateHistory":"编辑会员足迹",
+      "historyDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

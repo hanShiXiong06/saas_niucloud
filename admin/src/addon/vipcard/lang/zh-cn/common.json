@@ -1,0 +1,13 @@
+{
+  "serve": "项目",
+  "serveNum": "项目数量",
+  "card": "卡项",
+  "cardNum": "卡项数量",
+  "goodsSelectPopupSelectGoodsButton": "选择商品",
+  "goodsSelectPopupSelect": "已选",
+  "goodsSelectPopupPiece": "个",
+  "goodsSelectPopupSelectGoodsDialog": "商品选择",
+  "goodsSelectPopupGoodsInfo": "商品信息",
+  "goodsSelectPopupPrice": "价格",
+  "goodsSelectPopupStock": "库存"
+}

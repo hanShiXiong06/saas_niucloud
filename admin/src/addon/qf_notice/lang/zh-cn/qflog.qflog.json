@@ -1,0 +1,23 @@
+{
+      "siteId": "站点ID",
+      "siteIdPlaceholder": "请输入站点ID",
+      "addonName": "名称",
+      "addonNamePlaceholder": "请输入名称",
+      "wxOpenid": "账户",
+      "wxOpenidPlaceholder": "请输入openid",
+      "email": "邮箱",
+      "emailPlaceholder": "请输入邮箱",
+      "mobile": "手机",
+      "mobilePlaceholder": "请输入手机",
+      "type": "类型",
+      "typePlaceholder": "请输入类型",
+      "log": "发送日志",
+      "logPlaceholder": "请输入发送日志",
+      "createTime": "创建时间",
+      "createTimePlaceholder": "请输入创建时间",
+      "addQflog": "添加发送日志",
+      "updateQflog": "编辑发送日志",
+      "qflogDeleteTips": "确定要删除该数据吗？",
+      "startDate": "请选择开始时间",
+      "endDate": "请选择结束时间"
+}

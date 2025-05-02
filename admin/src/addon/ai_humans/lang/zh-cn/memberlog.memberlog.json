@@ -1,0 +1,19 @@
+{
+      "siteId":"站点id",
+      "siteIdPlaceholder":"请输入站点id",
+      "memberId":"会员",
+      "memberIdPlaceholder":"全部",
+      "changType":"变动",
+      "changTypePlaceholder":"请输入变动",
+      "num":"数量",
+      "numPlaceholder":"请输入数量",
+      "desc":"描述",
+      "descPlaceholder":"请输入描述",
+      "createTime":"创建时间",
+      "createTimePlaceholder":"请输入创建时间",
+      "addMemberLog":"添加会员日志",
+      "updateMemberLog":"编辑会员日志",
+      "memberLogDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

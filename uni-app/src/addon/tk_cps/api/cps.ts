@@ -1,0 +1,16 @@
+
+import request from '@/utils/request'
+
+/***************************************************** CPS联盟 ****************************************************/
+export function getCpsInfo(params: Record<string, any>) {
+	return request.get(`tk_cps/cpsinfo`, params)
+}
+export function getActList(params: Record<string, any>) {
+	return request.get(`tk_cps/actlist`, params)
+}
+export function getNewActList(params: Record<string, any>) {
+	return request.get(`tk_cps/newactlist`, params)
+}
+export function getPlatformConfig(type) {
+	return request.get(`tk_cps/getplatformconfig/${type}`)
+}

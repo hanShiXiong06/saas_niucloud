@@ -1,0 +1,21 @@
+{
+      "subjectId":"科目",
+      "subjectIdPlaceholder":"请输入科目id",
+      "subjectName":"科目名称",
+      "subjectNamePlaceholder":"请输入科目名称",
+      "image":"科目图片",
+      "imagePlaceholder":"请输入科目图片",
+      "pid":"上级科目",
+      "pidPlaceholder":"请选择上级科目",
+      "subjectFullName":"组装科目名称",
+      "subjectFullNamePlaceholder":"请输入组装科目名称",
+      "Status":"显示状态",
+      "sort":"排序",
+	  "type":"科目类型",
+      "sortPlaceholder":"请输入排序号",
+      "addSubject":"添加科目",
+      "updateSubject":"编辑科目",
+      "subjectDeleteTips":"确定要删除该数据吗？",
+      "subjectDeleteTips1":"子级科目也会删除，确定要删除该数据吗？",
+	  "typePlaceholder":"请选择科目类型"
+}

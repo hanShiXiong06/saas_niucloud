@@ -1,0 +1,15 @@
+// 开启全局灰色背景开关
+$open-all-bg-gray: 0;
+
+// 引入全局样式
+@import './theme.scss';
+@import './libs/css/mixin.scss';
+@import './libs/css/color.scss';
+@import './libs/css/main.scss';
+
+/* #ifdef H5 */
+@import './libs/css/h5.style.scss';
+/* #endif */
+/* #ifdef MP-WEIXIN */
+@import './libs/css/wx.style.scss';
+/* #endif */

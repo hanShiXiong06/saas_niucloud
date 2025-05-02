@@ -1,0 +1,17 @@
+{
+      "siteId": "站点id",
+      "siteIdPlaceholder": "请输入站点id",
+      "name": "名称",
+      "namePlaceholder": "请输入名称",
+      "price": "价格",
+      "pricePlaceholder": "请输入价格",
+      "point": "点数",
+      "pointPlaceholder": "请输入点数",
+      "sort": "排序",
+      "sortPlaceholder": "请输入排序",
+      "addPackage": "添加套餐",
+      "updatePackage": "编辑套餐",
+      "packageDeleteTips": "确定要删除该数据吗？",
+      "startDate": "请选择开始时间",
+      "endDate": "请选择结束时间"
+}

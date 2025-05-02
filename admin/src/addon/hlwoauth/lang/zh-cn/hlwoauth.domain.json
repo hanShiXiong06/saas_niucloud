@@ -1,0 +1,22 @@
+{
+      "id":"ID",
+      "name":"授权名称",
+      "namePlaceholder":"请输入授权名称",
+      "domain":"回调地址",
+      "domainPlaceholder":"请输入回调地址",
+      "authUrl":"授权链接",
+      "authUrlPlaceholder":"请输入授权链接",
+      "number":"授权次数",
+      "scope":"授权方式",
+      "scopePlaceholder":"请选择授权方式",
+      "numberPlaceholder":"请输入次数",
+      "status":"状态",
+      "statusPlaceholder":"请输入状态",
+      "createTime":"创建时间",
+      "createTimePlaceholder":"请输入创建时间",
+      "addDomain":"新增授权",
+      "updateDomain":"编辑授权",
+      "domainDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

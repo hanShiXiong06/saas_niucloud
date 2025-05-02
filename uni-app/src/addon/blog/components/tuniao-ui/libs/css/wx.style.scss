@@ -1,0 +1,17 @@
+/* 
+  微信小程序特有的style样式
+*/
+page {
+  // 全局灰白效果
+  @if ($open-all-bg-gray==1) {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+  }
+
+  // 修复点击view标签的时候会有蓝色遮罩
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+
+  background-color: $tn-bg-color;
+  font-size: $tn-font-size;
+  color: $tn-font-color;
+}

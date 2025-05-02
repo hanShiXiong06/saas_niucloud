@@ -1,0 +1,91 @@
+
+// 拼接图鸟官方颜色
+@mixin getColor($type, $colorName, $prefixValue: '') {
+  @if $prefixValue != '' {
+    @if $colorName == 'white' {
+      #{$type}: #{$prefixValue} #FFFFFF !important;
+    } @else if $colorName == 'black'{
+      #{$type}: #{$prefixValue} $tn-font-color !important;
+    } @else {
+      #{$type}: #{$prefixValue} map-get(map-get($tn-color-map, $colorName), "normal") !important;
+      &--light {
+        #{$type}: #{$prefixValue} map-get(map-get($tn-color-map, $colorName), "light") !important;
+      }
+      &--dark {
+        #{$type}: #{$prefixValue} map-get(map-get($tn-color-map, $colorName), "dark") !important;
+      }
+      &--disabled {
+        #{$type}: #{$prefixValue} map-get(map-get($tn-color-map, $colorName), "disabled") !important;
+      }
+    }
+  } @else {
+    @if $colorName == 'white' {
+      #{$type}: #FFFFFF !important;
+    } @else if $colorName == 'black'{
+      #{$type}: $tn-font-color !important;
+    } @else {
+      #{$type}: map-get(map-get($tn-color-map, $colorName), "normal") !important;
+      &--light {
+        #{$type}: map-get(map-get($tn-color-map, $colorName), "light") !important;
+      }
+      &--dark {
+        #{$type}: map-get(map-get($tn-color-map, $colorName), "dark") !important;
+      }
+      &--disabled {
+        #{$type}: map-get(map-get($tn-color-map, $colorName), "disabled") !important;
+      }
+    }
+  }
+  
+}
+
+// 拼接背景颜色
+@mixin getBgColor($colorName) {
+  @if $colorName == 'white' {
+    background-color: #FFFFFF !important;
+    color: $tn-font-color !important;
+  } @else if $colorName == 'black'{
+    background-color: #080808 !important;
+    color: #FFFFFF !important;
+  } @else if $colorName == 'yellow' or $colorName == 'lime' {
+    background-color: map-get(map-get($tn-color-map, $colorName), "normal") !important;
+    color: map-get(map-get($tn-color-map, $colorName), "dark") !important;
+    &--light {
+      background-color: map-get(map-get($tn-color-map, $colorName), "light") !important;
+      color: map-get(map-get($tn-color-map, $colorName), "dark") !important;
+    }
+    &--dark {
+      background-color: map-get(map-get($tn-color-map, $colorName), "dark") !important;
+      color: #FFFFFF !important;
+    }
+    &--disabled {
+      background-color: map-get(map-get($tn-color-map, $colorName), "disabled") !important;
+      color: map-get(map-get($tn-color-map, $colorName), "dark") !important;
+    }
+  } @else {
+    background-color: map-get(map-get($tn-color-map, $colorName), "normal") !important;
+    color: #FFFFFF !important;
+    &--light {
+      background-color: map-get(map-get($tn-color-map, $colorName), "light") !important;
+      color: map-get(map-get($tn-color-map, $colorName), "normal") !important;
+    }
+    &--dark {
+      background-color: map-get(map-get($tn-color-map, $colorName), "dark") !important;
+      color: #FFFFFF !important;
+    }
+    &--disabled {
+      background-color: map-get(map-get($tn-color-map, $colorName), "disabled") !important;
+      color: map-get(map-get($tn-color-map, $colorName), "normal") !important;
+    }
+  }
+}
+
+// 拼接渐变颜色
+@mixin getGradientColor($startColor, $endColor, $fontColor: #FFFFFF) {
+  background-image: repeating-linear-gradient(45deg, $startColor, $endColor);
+  color: $fontColor !important;
+  &--reverse {
+    background-image: repeating-linear-gradient(-45deg, $startColor, $endColor);
+    color: $fontColor !important;
+  }
+}

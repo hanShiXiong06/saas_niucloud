@@ -1,0 +1,23 @@
+{
+      "siteId":"站点id",
+      "siteIdPlaceholder":"请输入站点id",
+      "memberId":"会员id",
+      "memberIdPlaceholder":"全部",
+      "point":"点数",
+      "pointPlaceholder":"请输入点数",
+      "cloneVoiceNum":"克隆声音数量",
+      "cloneVoiceNumPlaceholder":"请输入克隆声音数量",
+      "createVoiceNum":"合成声音数量",
+      "createVoiceNumPlaceholder":"请输入合成声音数量",
+      "cloneVideoNum":"克隆分身数量",
+      "cloneVideoNumPlaceholder":"请输入克隆分身数量",
+      "createVideoNum":"创建会员数量",
+      "createVideoNumPlaceholder":"请输入创建会员数量",
+      "chatNum":"AI对话数量",
+      "chatNumPlaceholder":"请输入AI对话数量",
+      "addAihumansMember":"添加会员列",
+      "updateAihumansMember":"编辑会员列",
+      "aihumansMemberDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

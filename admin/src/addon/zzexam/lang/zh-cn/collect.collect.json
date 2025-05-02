@@ -1,0 +1,16 @@
+{
+      "siteId":"站点id",
+      "siteIdPlaceholder":"请输入站点id",
+      "memberId":"会员信息",
+      "memberIdPlaceholder":"请输入会员信息",
+      "type":"类型",
+      "typePlaceholder":"请输入类型",
+      "targetId":"目标",
+      "targetIdPlaceholder":"请输入目标",
+      "addCollect":"添加会员收藏",
+      "updateCollect":"编辑会员收藏",
+      "collectDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间",
+	  "createTime":"收藏时间"
+}

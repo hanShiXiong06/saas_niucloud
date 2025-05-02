@@ -1,0 +1,277 @@
+// 此文件为TuniaoUI的主题变量，这些变量目前只能通过uni.scss引入才有效，另外由于
+// uni.scss中引入的样式会同时混入到全局样式文件和单独每一个页面的样式中，造成微信程序包太大，
+// 故uni.scss只建议放scss变量名相关样式，其他的样式可以通过main.js或者App.vue引入
+
+// tuniaoUI内外边距建议值
+$tn-default-padding: 30rpx;
+
+// 主颜色
+$tn-main-color: #01beff;
+$tn-main-orange: #fbbd12;
+$tn-embellished-green: #00ffc6;
+$tn-embellished-yellow: #fff00d;
+$tn-auxiliary-powder: #ff71d2;
+$tn-auxiliary-blue: #82b2ff;
+$tn-bg-color: #ffffff;
+$tn-bg-gray-color: #f4f4f4;
+$tn-space-color: #f8f7f8;
+
+// TODO: 修改开始
+// 边框颜色
+$tn-border-solid-color: rgba(0, 0, 0, 0.1);
+$tn-border-solids-color: #eee;
+$tn-border-dashed-color: #ddd;
+
+// 阴影颜色
+$tn-shadow-color: rgba(0, 0, 0, 0.1);
+$tn-box-shadow-color: rgba(0, 0, 0, 0.2);
+
+// 字体颜色
+$tn-font-color: #080808;
+$tn-font-sub-color: #aaaaaa;
+$tn-content-color: #838383;
+$tn-font-holder-color: #e6e6e6;
+// 修改结束
+
+// 类型主体色
+$tn-type-names: 'primary', 'success', 'warning', 'danger', 'info';
+$tn-type-color-map: (
+	'primary': (
+		'normal': #01beff,
+		'light': #ccf2ff
+	),
+	'success': (
+		'normal': #00d886,
+		'light': #ccf7e7
+	),
+	'warning': (
+		'normal': #fbbd12,
+		'light': #fef2d0
+	),
+	'danger': (
+		'normal': #ff444f,
+		'light': #ffdadc
+	),
+	'info': (
+		'normal': #9c9c9c,
+		'light': #f0f1f0
+	)
+);
+
+// 边框颜色
+$tn-border-solid-color: rgba(0, 0, 0, 0.1);
+$tn-border-solids-color: #eee;
+
+// 边框宽度
+$tn-border-base-width: 2rpx;
+$tn-border-bold-width: 6rpx;
+
+// 阴影颜色
+$tn-shadow-color: rgba(0, 0, 0, 0.07);
+$tn-box-shadow-color: rgba(0, 0, 0, 0.2);
+
+// 阴影参数
+$tn-box-shadow-attr: 0rpx 0rpx 50rpx 0rpx;
+
+// 字体大小
+$tn-font-size: 28rpx;
+
+// 字体颜色
+$tn-font-color: #080808;
+$tn-regular-font-color: #6b6b6b;
+$tn-secondary-font-color: #9c9c9c;
+$tn-placeholder-font-color: #cecece;
+
+$tn-mask-bg-color: rgba(0, 0, 0, 0.4);
+
+$tn-progress-bg-color: #f0f0f0;
+
+// 图鸟颜色名称
+$tn-color-names: 'red', 'purplered', 'purple', 'bluepurple', 'aquablue', 'blue', 'indigo', 'cyan', 'teal', 'green', 'yellowgreen', 'lime', 'yellow', 'orangeyellow', 'orange',
+	'orangered', 'brown', 'grey', 'gray';
+
+// 图鸟颜色值命名
+$tn-color-map: (
+	'red': (
+		'normal': #e83a30,
+		'dark': #ba2e26,
+		'disabled': #f39c97,
+		'light': #fad8d6
+	),
+	'purplered': (
+		'normal': #e72f8c,
+		'dark': #b9266f,
+		'disabled': #f397c5,
+		'light': #fad5e8
+	),
+	'purple': (
+		'normal': #892fe8,
+		'dark': #6e26ba,
+		'disabled': #c497f3,
+		'light': #e7d5fa
+	),
+	'bluepurple': (
+		'normal': #5f4fd9,
+		'dark': #4c3fae,
+		'disabled': #afa7ec,
+		'light': #dfdcf7
+	),
+	'aquablue': (
+		'normal': #3646ff,
+		'dark': #2b38cc,
+		'disabled': #9aa2ff,
+		'light': #d7daff
+	),
+	'blue': (
+		'normal': #3d7eff,
+		'dark': #3165cc,
+		'disabled': #9ebeff,
+		'light': #d8e5ff
+	),
+	'indigo': (
+		'normal': #31c9e8,
+		'dark': #27a1ba,
+		'disabled': #98e4f3,
+		'light': #d6f4fa
+	),
+	'cyan': (
+		'normal': #2de8bd,
+		'dark': #24ba97,
+		'disabled': #96f3de,
+		'light': #d5faf2
+	),
+	'teal': (
+		'normal': #24f083,
+		'dark': #1dc069,
+		'disabled': #91f7c1,
+		'light': #d3fce6
+	),
+	'green': (
+		'normal': #31e749,
+		'dark': #27b93a,
+		'disabled': #98f3a4,
+		'light': #d6fadb
+	),
+	'yellowgreen': (
+		'normal': #a4e82f,
+		'dark': #82ba26,
+		'disabled': #d1f397,
+		'light': #edfad5
+	),
+	'lime': (
+		'normal': #d5eb00,
+		'dark': #aabc00,
+		'disabled': #e9f57f,
+		'light': #f7fbcc
+	),
+	'yellow': (
+		'normal': #fff420,
+		'dark': #ccc21a,
+		'disabled': #fff88f,
+		'light': #fffdd2
+	),
+	'orangeyellow': (
+		'normal': #ffca28,
+		'dark': #cca220,
+		'disabled': #ffe493,
+		'light': #fff4d4
+	),
+	'orange': (
+		'normal': #ffa726,
+		'dark': #cc851e,
+		'disabled': #ffd392,
+		'light': #ffedd4
+	),
+	'orangered': (
+		'normal': #ff7043,
+		'dark': #cc5a36,
+		'disabled': #ffb7a1,
+		'light': #ffe2d9
+	),
+	'brown': (
+		'normal': #914f2c,
+		'dark': #743f23,
+		'disabled': #c8a795,
+		'light': #e9dcd5
+	),
+	'grey': (
+		'normal': #78909c,
+		'dark': #5f7e8b,
+		'disabled': #c6d1d8,
+		'light': #e4e9ec
+	),
+	'gray': (
+		'normal': #aaaaaa,
+		'dark': #838383,
+		'disabled': #e6e6e6,
+		'light': #f8f7f8
+	)
+);
+
+// 炫酷背景颜色
+$tn-cool-bg-list: (
+	(
+		'start': #f5317f,
+		'end': #ff7c6e
+	),
+	(
+		'start': #ca26ff,
+		'end': #f360a7
+	),
+	(
+		'start': #a26ffc,
+		'end': #9d12ff
+	),
+	(
+		'start': #aa77f0,
+		'end': #e871e5
+	),
+	(
+		'start': #40a0f7,
+		'end': #4866e6
+	),
+	(
+		'start': #209cff,
+		'end': #68e0cf
+	),
+	(
+		'start': #00c3ff,
+		'end': #58fff5
+	),
+	(
+		'start': #00d1ff,
+		'end': #69ff97
+	),
+	(
+		'start': #0fd893,
+		'end': #29ecbf
+	),
+	(
+		'start': #0fd850,
+		'end': #f9f047
+	),
+	(
+		'start': #24fe41,
+		'end': #f7fd47
+	),
+	(
+		'start': #d6ff7f,
+		'end': #00f657
+	),
+	(
+		'start': #fa709a,
+		'end': #fee140
+	),
+	(
+		'start': #fe5e9c,
+		'end': #f1aa76
+	),
+	(
+		'start': #ff3181,
+		'end': #ff8331
+	),
+	(
+		'start': #ed1c24,
+		'end': #fece12
+	)
+);

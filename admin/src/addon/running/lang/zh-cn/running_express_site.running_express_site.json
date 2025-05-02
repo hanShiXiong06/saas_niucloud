@@ -1,0 +1,17 @@
+{
+      "id":"主键ID",
+      "idPlaceholder":"请输入主键ID",
+      "schoolId":"学校",
+      "schoolIdPlaceholder":"全部",
+      "name":"站点名称",
+      "namePlaceholder":"请输入站点名称",
+      "address":"站点地址",
+      "addressPlaceholder":"请输入站点地址",
+      "status":"状态",
+      "statusPlaceholder":"请输入状态",
+      "addRunningExpressSite":"添加快递站点",
+      "updateRunningExpressSite":"编辑快递站点",
+      "runningExpressSiteDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

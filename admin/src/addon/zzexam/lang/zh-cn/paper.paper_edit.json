@@ -1,0 +1,22 @@
+{
+      "categoryId":"试卷分类",
+      "title":"试卷名称",
+      "mode":"选题模式",
+      "questionRules":"选题规则",
+      "questionNum":"题目数量",
+      "totalScore":"试卷总分",
+      "passScore":"及格分数",
+      "status":"状态",
+      "categoryIdPlaceholder":"请选择试卷分类",
+      "titlePlaceholder":"请输入试卷名称",
+      "modePlaceholder":"请输入选题模式",
+      "questionRulesPlaceholder":"请输入选题规则",
+      "questionNumPlaceholder":"请输入题目数量",
+      "totalScorePlaceholder":"请输入试卷总分",
+      "passScorePlaceholder":"请输入及格分数",
+      "statusPlaceholder":"请输入状态",
+      "addPaper":"添加试卷",
+      "updatePaper":"编辑试卷",
+      "paperDeleteTips":"确定要删除该试卷吗？"
+	  
+}

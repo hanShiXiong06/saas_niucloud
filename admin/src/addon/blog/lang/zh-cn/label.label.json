@@ -1,0 +1,14 @@
+{
+      "id":"ID",
+      "name":"标签名称",
+      "namePlaceholder":"请输入标签名称",
+      "status":"状态",
+      "statusPlaceholder":"请输入状态",
+      "adddate":"添加时间",
+      "adddatePlaceholder":"请输入添加时间",
+      "addLabel":"添加标签",
+      "updateLabel":"编辑标签",
+      "labelDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

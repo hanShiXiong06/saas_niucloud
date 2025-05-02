@@ -1,0 +1,15 @@
+{
+      "memberId":"用户",
+      "memberIdPlaceholder":"请输入用户",
+      "type":"类型",
+      "typePlaceholder":"请输入类型",
+      "content":"笔记内容",
+      "contentPlaceholder":"请输入内容",
+      "targetId":"目标ID",
+      "targetIdPlaceholder":"请输入目标ID",
+      "addNote":"添加会员笔记",
+      "updateNote":"编辑会员笔记",
+      "noteDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

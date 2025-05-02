@@ -1,0 +1,18 @@
+{
+  "templateName": "模板名称",
+  "templateNamePlaceholder": "请输入模板名称",
+  "templateType": "模板类型",
+  "templateTypePlaceholder": "请选择模板类型",
+  "isDefault": "是否默认",
+  "defaulttemplate": "默认模板",
+  "noDefault": "否",
+  "addTemplate": "添加模板",
+  "previewDialogTitle": "预览模板",
+  "title": "页面名称",
+  "status": "状态",
+  "updateTime": "更新时间",
+  "all": "全部",
+  "diytemplateDeleteTips": "确定要删除该自定义模板吗？",
+  "preview": "预览",
+  "modifyDefault": "设为默认"
+}

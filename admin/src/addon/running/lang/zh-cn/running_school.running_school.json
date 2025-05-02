@@ -1,0 +1,19 @@
+{
+      "id":"主键ID",
+      "idPlaceholder":"请输入主键ID",
+      "name":"学校名称",
+      "namePlaceholder":"请输入学校名称",
+      "address":"学校地址",
+      "addressPlaceholder":"请输入学校地址",
+      "status":"状态",
+      "statusPlaceholder":"请输入状态",
+      "createTime":"创建时间",
+      "createTimePlaceholder":"请输入创建时间",
+      "updateTime":"更新时间",
+      "updateTimePlaceholder":"请输入更新时间",
+      "addRunningSchool":"添加学校信息",
+      "updateRunningSchool":"编辑学校信息",
+      "runningSchoolDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

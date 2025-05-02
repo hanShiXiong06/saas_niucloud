@@ -1,0 +1,19 @@
+{
+      "siteId":"站点ID",
+      "title":"名称",
+      "image":"封面",
+      "desc":"描述",
+      "content":"详情",
+      "viewNum":"浏览量",
+      "sort":"排序",
+      "siteIdPlaceholder":"请输入站点ID",
+      "titlePlaceholder":"请输入名称",
+      "imagePlaceholder":"请上传封面",
+      "descPlaceholder":"请输入描述",
+      "contentPlaceholder":"请输入详情",
+      "viewNumPlaceholder":"请输入浏览量",
+      "sortPlaceholder":"请输入排序",
+      "addAihumansHelp":"添加帮助中心",
+      "updateAihumansHelp":"编辑帮助中心",
+      "aihumansHelpDeleteTips":"确定要删除该帮助中心吗？"
+}

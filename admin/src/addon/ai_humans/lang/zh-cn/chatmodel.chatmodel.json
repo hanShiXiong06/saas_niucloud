@@ -1,0 +1,21 @@
+{
+      "siteId":"站点id",
+      "siteIdPlaceholder":"请输入站点id",
+      "logo":"角色图标",
+      "logoPlaceholder":"请输入角色图标",
+      "name":"模型名称",
+      "namePlaceholder":"请输入模型名称",
+      "desc":"提示词描述",
+      "descPlaceholder":"请输入提示词描述",
+      "demo":"演示",
+      "demoPlaceholder":"请输入演示",
+      "content":"调教文案",
+      "contentPlaceholder":"请输入调教文案",
+      "sort":"排序",
+      "sortPlaceholder":"请输入排序",
+      "addChatModel":"添加模型",
+      "updateChatModel":"编辑模型",
+      "chatModelDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}

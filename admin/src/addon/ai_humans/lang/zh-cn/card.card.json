@@ -1,0 +1,17 @@
+{
+      "siteId":"站点ID",
+      "siteIdPlaceholder":"请输入站点ID",
+      "cardNum":"卡密",
+      "cardNumPlaceholder":"请输入卡密",
+      "isUse":"兑换状态",
+      "isUsePlaceholder":"请输入是否使用",
+      "point":"兑换点数",
+      "pointPlaceholder":"请输入兑换点数",
+      "status":"状态",
+      "statusPlaceholder":"请输入状态",
+      "addCard":"生成卡密",
+      "updateCard":"编辑卡密管理",
+      "cardDeleteTips":"确定要删除该数据吗？",
+      "startDate":"请选择开始时间",
+      "endDate":"请选择结束时间"
+}
